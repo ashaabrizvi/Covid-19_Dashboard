@@ -6,3 +6,4 @@ jsonschema==3.0.2
 folium==0.11.0
 html5lib==1.0.1
 requests==2.22.0
+streamlit-folium==0.1.0
