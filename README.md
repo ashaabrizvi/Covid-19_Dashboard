@@ -14,6 +14,8 @@ Also, There is a comparison of Confirmed Cases, Recovered Cases, Deaths of 10 Mo
 
 At last, There is a 3D Plot of 10 Most Affected Countries.
 
+You can also look at the Raw Data by clicking Show Raw Data.
+
 Here are some screenshots from the app.
 
 
