@@ -2,7 +2,9 @@
 
 Have a look at it -
 
-https://covid19dashboardjhu.herokuapp.com/
+Deployed on AWS EC2 Instance - https://bit.ly/2SEuBF0
+
+Deployed on Heroku - https://covid19dashboardjhu.herokuapp.com/  (It might not work sometimes due to limited dynos.)
 
 This Web App is a live Covid-19 Dashboard which access Data sourced from Johns Hopkins CSSE.
 
