@@ -2,7 +2,7 @@
 
 Have a look at it -
 
-Deployed on AWS EC2 Instance - https://bit.ly/3daFHeo
+Deployed on AWS EC2 Instance - https://bit.ly/3daFHeo (Due to fix number of hours in AWS EC2 Free tier it has been stopped for this month)
 
 Deployed on Heroku - https://covid19dashboardjhu.herokuapp.com/  (It might not work sometimes due to limited dynos.)
 
