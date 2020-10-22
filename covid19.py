@@ -141,7 +141,7 @@ def main():
            m2.add_child(HeatMap(zip(lat,long,deaths),radius=0))
            folium_static(m2)
            
-    st.sidebar.subheader('Analysis through Bar Chart')
+    st.sidebar.subheader('Analysis through Bar Chart - Plotly')
     
     select = st.sidebar.selectbox('Choose Bar Chart',['Confirmed Cases','Recovered Cases','Active Cases','Deaths'],key='2')
     
@@ -184,27 +184,10 @@ def main():
               color='Country')
         fig.update_layout(title='3D Plot of Total Cases, Total Deaths and Total Recovered of Top 20 Affected Countries')
         st.plotly_chart(fig)
-          
-                 
-        
-
-    
-    
-    
-    
-    
+         
     if st.sidebar.checkbox("Show Raw Data",False):
         st.subheader("Covid 19 Data")
         st.write(covid1)
-
-     
-     
-     
-     
-     
-     
-     
-     
      
 if __name__ == '__main__':
     main()
