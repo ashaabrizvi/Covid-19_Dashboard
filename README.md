@@ -1,4 +1,4 @@
-# Covid-19 Dashboard
+# Covid-19 Dashboard [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/ashaabrizvi/covid-19_dashboard/covid19.py)
 
 Have a look at it -
 
